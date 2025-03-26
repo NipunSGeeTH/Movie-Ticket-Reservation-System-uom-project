@@ -83,8 +83,8 @@ public class SendEmailpdf {
     }
     
     public static void sendEmailWithReport(String reportFilePath, String recipientEmail) throws Exception {
-        final String username = "sangeethk.23@cse.mrt.ac.lk";
-        final String password = "jkuz livs dfqm woba"; 
+        final String username = "Your Email Address";
+        final String password = "Your Email App Password (Not Email's Password )"; 
 
         Properties props = new Properties();
         props.put("mail.smtp.auth", "true");
