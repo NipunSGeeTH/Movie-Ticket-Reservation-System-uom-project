@@ -1,0 +1,22 @@
+Movie Code,Movie Name,Date,Showtime,Total Seats,Available Seats,Ticket Price,Language,Genre
+M001,The Grand Adventure,2025-04-01,Morning,100,60,12.50,English,Adventure
+M001,The Grand Adventure,2025-04-01,Afternoon,100,85,12.50,English,Adventure
+M001,The Grand Adventure,2025-04-01,Evening,100,75,12.50,English,Adventure
+M002,Space Odyssey,2025-04-01,Morning,150,140,15.00,English,Sci-Fi
+M002,Space Odyssey,2025-04-01,Afternoon,150,120,15.00,English,Sci-Fi
+M002,Space Odyssey,2025-04-01,Evening,150,100,15.00,English,Sci-Fi
+M003,Lost in Time,2025-04-02,Morning,120,110,10.00,English,Drama
+M003,Lost in Time,2025-04-02,Afternoon,120,100,10.00,English,Drama
+M003,Lost in Time,2025-04-02,Evening,120,95,10.00,English,Drama
+M004,Underwater Mystery,2025-04-02,Morning,80,70,11.00,English,Thriller
+M004,Underwater Mystery,2025-04-02,Afternoon,80,65,11.00,English,Thriller
+M004,Underwater Mystery,2025-04-02,Evening,80,50,11.00,English,Thriller
+M005,Superhero Returns,2025-04-03,Morning,200,190,16.00,English,Action
+M005,Superhero Returns,2025-04-03,Afternoon,200,180,16.00,English,Action
+M005,Superhero Returns,2025-04-03,Evening,200,150,16.00,English,Action
+M006,Romantic Escape,2025-04-03,Morning,90,85,9.50,English,Romance
+M006,Romantic Escape,2025-04-03,Afternoon,90,80,9.50,English,Romance
+M006,Romantic Escape,2025-04-03,Evening,90,75,9.50,English,Romance
+M007,Horror Nights,2025-04-04,Morning,70,65,13.00,English,Horror
+M007,Horror Nights,2025-04-04,Afternoon,70,50,13.00,English,Horror
+M007,Horror Nights,2025-04-04,Evening,70,45,13.00,English,Horror
